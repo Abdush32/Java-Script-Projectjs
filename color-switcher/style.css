@@ -1,0 +1,38 @@
+.button{
+    height: 150px;;
+    width: 150px;
+    border: 2px solid black;
+    margin-right: 10px;
+}
+.main{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+#red{
+    background-color: red;
+}
+#pink{
+    background-color: palevioletred;
+}
+#green{
+    background-color: green;
+}
+#orange{
+    background-color: orange
+}
+.reset-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.reset-button{
+    height: 20px;;
+    width: 80px;
+    padding: 10px;
+    border: 2px solid rgb(153, 41, 41);
+   background-color:black;
+   color: white;
+   text-align: center;
+}
