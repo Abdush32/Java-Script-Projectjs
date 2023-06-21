@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  margin-top: 50px;
+}
+.clock{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(238, 155, 3);
+    color: white;
+}
+#clockin{
+    color: white;
+}
